@@ -6,7 +6,7 @@ Instead of remembering hard-to-read IP addresses, we use domain names such as `g
 
 ## How Does DNS Work?
 
-When you type `algomaster.io` into your browser:
+When you type `github.com` into your browser:
 
 1. Your computer asks a **DNS server** for the corresponding IP address.
 2. The DNS server returns the IP address associated with the domain.
